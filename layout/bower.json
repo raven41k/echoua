@@ -1,0 +1,21 @@
+{
+  "name": "test",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "app/libs"
+  ],
+  "authors": [
+    "gerasimchuk4clever-solution <gerasimchuk@clever-solution.com>"
+  ],
+  "description": "test",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "components-font-awesome": "^4.7.0",
+    "pushy": "^1.1.2",
+    "hover": "^2.1.1"
+  }
+}
